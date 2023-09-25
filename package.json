@@ -3,6 +3,10 @@
   "displayName": "api-insights-vscode",
   "description": "Get insights into your OpenAPI Specification, straight from your editor",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/treblle/api-insights-vscode"
+  },
   "engines": {
     "vscode": "^1.82.0"
   },
